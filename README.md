@@ -2,6 +2,8 @@
 
 Capacitor Plugin for Apple Login
 
+DO NOT USE THIS PLUGIN -- IS UNDER DEVELOPMENT
+
 ## Install
 
 ```bash
